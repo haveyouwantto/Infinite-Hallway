@@ -1,0 +1,1 @@
+give @s silverfish_spawn_egg{EntityTag:{DeathLootTable:"infhw:build"},display:{Name:"{\"text\":\"Build\"}"}}
