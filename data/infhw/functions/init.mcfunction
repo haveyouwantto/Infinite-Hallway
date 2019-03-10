@@ -1,0 +1,4 @@
+gamerule doMobSpawning false
+gamerule keepInventory false
+gamerule commandBlockOutput false
+gamerule spawnRadius 1
