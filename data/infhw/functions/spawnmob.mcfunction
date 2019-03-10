@@ -1,0 +1,2 @@
+execute as @e[nbt={CustomName:"{\"text\":\"Spawn Zombie\"}"},distance=..15] at @s run summon zombie ~ ~ ~ {DeathLootTable:"infhw:goldnugget"}
+execute as @e[nbt={CustomName:"{\"text\":\"Spawn Zombie\"}"},distance=..15] at @s run kill @s

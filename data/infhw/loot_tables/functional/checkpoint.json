@@ -1,0 +1,20 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:stone",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{randomid:\"functional-checkpoint\",clear:1b}"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
